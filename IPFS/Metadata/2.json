@@ -1,0 +1,20 @@
+{
+    "description": "Wedding invite card",
+    "external_url": "https://openseacreatures.io/3",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmdv12B7ABewZJKRLQCdk86MJh2tFkGf2yW4vvShESgokC/2.png",
+    "name": "2",
+    "attributes": [
+    {
+    "trait_type": "Date",
+    "value": "2023/6/27"
+    },
+    {
+    "trait_type": "Birthday",
+    "value": "JakeKuo"
+    },
+    {
+    "trait_type": "Place",
+    "value": "Taipei city"
+    }
+    ]
+    }
