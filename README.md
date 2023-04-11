@@ -41,7 +41,7 @@ $ npm init -y
 $ npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
 ```
 
-![](https://i.imgur.com/XYv6jBk.png =250x300)
+![](https://i.imgur.com/XYv6jBk.png)
 
 - 第一部份:撰寫智能合約
 使用[Openzeppelin](https://docs.openzeppelin.com/contracts/4.x/wizard)生成ERC-1155合約並複製到contract資料夾內的sol檔
