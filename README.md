@@ -40,6 +40,7 @@ $ npx hardhat
 $ npm init -y
 $ npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox
 ```
+
 ![](https://i.imgur.com/XYv6jBk.png =250x300)
 
 - 第一部份:撰寫智能合約
